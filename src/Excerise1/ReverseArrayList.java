@@ -1,3 +1,17 @@
+package Excerise1;
+
+/**Class: ReverseArrayList
+ * @author Jah St. Aimee
+ * @version 1.0
+ * Course: ITEC 2150 Fall 2023
+ * Written: December 8, 2023
+ *
+ * This class – reverses the
+ * order of the elements of a given array list in place,
+ * that is, in the original list itself without
+ * using any auxiliary data structure.
+ *
+ */
 import java.util.ArrayList;
 
 public class ReverseArrayList {

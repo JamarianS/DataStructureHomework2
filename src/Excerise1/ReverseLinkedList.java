@@ -1,3 +1,16 @@
+/**Class: ReverseLinkedList
+ * @author Jah St. Aimee
+ * @version 1.0
+ * Course: ITEC 2150 Fall 2023
+ * Written: December 8, 2023
+ *
+ * This class – returns another linked list
+ * that contains the elements of the
+ * original list in the reverse order.
+ *
+ */
+package Excerise1;
+
 import java.util.LinkedList;
 import java.util.ListIterator;
 

@@ -1,3 +1,15 @@
+/**Class: ReverseLinkedListInPlace
+ * @author Jah St. Aimee
+ * @version 1.0
+ * Course: ITEC 2150 Fall 2023
+ * Written: December 8, 2023
+ *
+ * This class – reverses the order of the e
+ * lements of a given linked list in place.
+ *
+ */
+package Excerise1;
+
 import java.util.LinkedList;
 import java.util.ListIterator;
 

@@ -1,3 +1,14 @@
+/**Class: BalancedParentheses
+ * @author Jah St. Aimee
+ * @version 1.0
+ * Course: ITEC 2150 Fall 2023
+ * Written: December 8, 2023
+ *
+ * This class – solves a variant of
+ * balanced parentheses problem with three different types
+ * of parenthese
+ *
+ */
 import java.util.Stack;
 
 public class BalancedParentheses {

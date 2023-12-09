@@ -1,14 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fc0c5f0-baa6-4ecd-8c1e-38c21638813b" name="Changes" comment="" />
+    <list default="true" id="5fc0c5f0-baa6-4ecd-8c1e-38c21638813b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructureHomework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excerise1/ReverseArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excerise1/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excerise1/ReverseLinkedListInPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excerise2/AddElementAtIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excerise2/CustomListUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excerise2/CustomListUtils2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excerise2/CustomListUtils3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excerise2/CustomListUtils4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excerise2/CustomListUtils5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excerise2/CustomListUtils6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excerise2/RemoveElementAtIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise3/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise4/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise5/BalancedParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise9/GenericSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SplitStack.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Z3nONFcKtFC7mNAbXbaOktjMiI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +53,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
